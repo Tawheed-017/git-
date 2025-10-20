@@ -1,0 +1,124 @@
+# All codes for git hub and git bash # 
+
+
+(1) To check the path way 
+  # pwd 
+
+(2) List of all things present in the folder
+  # ls 
+
+(3) To see the version of the git 
+  # git -v 
+
+(4) To move to the parent directory 
+  # cd ..
+
+(5) To create a directory 
+  # mkdir and directory name 
+
+(6) To remove a directory 
+  # rmdir and directory name 
+
+(7) How to chnage directory 
+  # cd and directory name 
+
+(8) To clear command prompts 
+  # clear 
+
+(9) To exit command prompt 
+  # exit 
+
+(10) To create a file
+   # touch filename.txt 
+
+(11) To remove or delete file 
+   # rm filename.txt 
+
+(12) To see the context of the file 
+   # cat filename.txt
+   
+
+(13) To create a repository 
+   # git init 
+
+
+(14) To get status 
+   # git status 
+
+(15) To get logs 
+   # git log
+
+(16) 
+   # git log --oneline 
+
+  
+(17) To add all files
+   # git add . 
+     
+
+(18) To add single file 
+   # git add filename 
+
+
+(19) To remove from tracking directory 
+   # git restore --staged filename 
+
+
+(20) To remove untracked files 
+   # git rm --     filename 
+
+
+(21) To commit file name 
+   # git commit -m "message"
+
+    
+(22) To connect to the github repository 
+   # git remote add origin github -url 
+
+
+(23) Remember if you have a file with spaces then use double quotes
+   # git branch -m main
+
+   # git push origin main 
+
+
+(24) To revert back one commit 
+   # git revert head 
+
+ 
+(25) To remove history of commit and no history of commit should be there use 
+   # git reset --force commitId
+
+
+(26) To create a branch from main branch 
+   # git branch branchname 
+
+    
+(27) To clone code and full the code  
+   # git clone github -url
+
+   # git pull github -url
+
+      
+(28) To remove the branch name 
+   # git checkout branch name 
+
+
+(29) To create and move to the branch 
+   # git checkout -b branchname 
+
+
+(30) To merge a branch you need to be on the master branch 
+   # git merge branchname 
+
+
+(31) To delete a merged branch 
+   # git delete -d branch-name 
+
+
+(32) To delete an unmerged branch 
+   # git delete -d branchname 
+
+
+
+
